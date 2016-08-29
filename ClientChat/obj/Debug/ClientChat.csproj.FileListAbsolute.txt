@@ -1,0 +1,9 @@
+C:\Users\Kristofer\Desktop\devCodeCamp\C#\ClientChat\ClientChat\bin\Debug\ClientChat.exe.config
+C:\Users\Kristofer\Desktop\devCodeCamp\C#\ClientChat\ClientChat\obj\Debug\ClientChat.csprojResolveAssemblyReference.cache
+C:\Users\Kristofer\Desktop\devCodeCamp\C#\ClientChat\ClientChat\obj\Debug\ChatClientGUI.Form1.resources
+C:\Users\Kristofer\Desktop\devCodeCamp\C#\ClientChat\ClientChat\obj\Debug\ClientChat.Properties.Resources.resources
+C:\Users\Kristofer\Desktop\devCodeCamp\C#\ClientChat\ClientChat\obj\Debug\ClientChat.csproj.GenerateResource.Cache
+C:\Users\Kristofer\Desktop\devCodeCamp\C#\ClientChat\ClientChat\bin\Debug\ClientChat.exe
+C:\Users\Kristofer\Desktop\devCodeCamp\C#\ClientChat\ClientChat\bin\Debug\ClientChat.pdb
+C:\Users\Kristofer\Desktop\devCodeCamp\C#\ClientChat\ClientChat\obj\Debug\ClientChat.exe
+C:\Users\Kristofer\Desktop\devCodeCamp\C#\ClientChat\ClientChat\obj\Debug\ClientChat.pdb
